@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-YiP-ca_F_]
+- Live Site URL: [https://quirky-galileo-6b7d31.netlify.app/]
 
 ## My process
 
